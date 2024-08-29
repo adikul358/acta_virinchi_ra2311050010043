@@ -40,8 +40,7 @@
 ## Track: Generative AI
 
 ### Problem Statement
-Utilising Generative AI to Help Writers Collaborate
+Med-Gemini™ for Accessible Diagnosis of Skin Conditions
 
-```
-<Introduction Paragraph>
-```
+A mobile app with Google Med-Gemini™ for patients in inaccessible areas to diagnose concerning skin conditions and get an alert to approach medical help. Patient groups also involve persons that find medical professionals intimidating and persons with an aversion to medical care. It also aims to save medical fees of from redundant doctor visits. The app suggests matching conditions, non-interfering treatments and prompts to narrow results. It learns from a history of diagnoses to increase accuracy.
+
